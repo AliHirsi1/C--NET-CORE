@@ -1,0 +1,12 @@
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.deps.json
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Modal.dll
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Data\bin\Debug\netcoreapp3.1\EmployeeManagement.Modal.pdb
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.csprojAssemblyReference.cache
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.AssemblyInfo.cs
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.csproj.CopyComplete
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.dll
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Data\obj\Debug\netcoreapp3.1\EmployeeManagement.Data.pdb

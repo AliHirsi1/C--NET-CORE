@@ -1,0 +1,9 @@
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Modal\bin\Debug\netcoreapp3.1\EmployeeManagement.Modal.deps.json
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Modal\bin\Debug\netcoreapp3.1\EmployeeManagement.Modal.dll
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Modal\bin\Debug\netcoreapp3.1\EmployeeManagement.Modal.pdb
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Modal\obj\Debug\netcoreapp3.1\EmployeeManagement.Modal.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Modal\obj\Debug\netcoreapp3.1\EmployeeManagement.Modal.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Modal\obj\Debug\netcoreapp3.1\EmployeeManagement.Modal.AssemblyInfo.cs
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Modal\obj\Debug\netcoreapp3.1\EmployeeManagement.Modal.dll
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Modal\obj\Debug\netcoreapp3.1\EmployeeManagement.Modal.pdb
+C:\Users\Ali\Desktop\C# NET-CORE\EmployeeManagement\EmployeeManagement.Modal\obj\Debug\netcoreapp3.1\EmployeeManagement.Modal.csprojAssemblyReference.cache

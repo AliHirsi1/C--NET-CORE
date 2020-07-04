@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace EmployeeManagement.Modal.Enum
+﻿namespace EmployeeManagement.Modal.Enum
 {
     public enum Department
     {

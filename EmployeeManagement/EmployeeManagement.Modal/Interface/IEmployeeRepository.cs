@@ -1,8 +1,7 @@
 ﻿using EmployeeManagement.Modal.Enum;
 using EmployeeManagement.Modal.Modals;
-using System;
 using System.Collections.Generic;
-using System.Text;
+
 
 namespace EmployeeManagement.Modal.Interface
 {

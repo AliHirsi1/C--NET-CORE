@@ -23,7 +23,7 @@ namespace EmployeeManagement.UI
             services.AddDbContextPool<AppDbContext>
                 (options => options.UseSqlServer(_config.GetConnectionString("EmployeeManagement")));
             services.AddMvc();
-            services.AddScoped<IEmployeeRepository, MockEmployeeRepository>();
+            services.AddScoped<IEmployeeRepository, SQLEmployeeRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

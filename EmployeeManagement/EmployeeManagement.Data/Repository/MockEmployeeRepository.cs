@@ -136,9 +136,13 @@ namespace EmployeeManagement.Data.Repository
         public void EditEmployee(int id, string name, string email, Department department)
         {
             var result = GetEmployee(id);
-            result.EmployeeName = name;
-            result.Department = department;
-            result.Email = email;
+            if(result != null)
+            {
+                result.EmployeeName = name;
+                result.Department = department;
+                result.Email = email;                
+            }
+            
         }
 
         

@@ -95,7 +95,9 @@
         var rows = data.parentElement.parentElement;
 
         //passing data to model pop up on the fly
+        
         $("input#idValue").val(rows.cells[0].innerText);
+        $("input#name").val(rows.cells[0].innerText);
         $("input#name").val(rows.cells[1].innerText);
         $("input#email").val(rows.cells[3].innerText);
         $("select#dept option")
@@ -182,7 +184,7 @@
         padding-bottom: 10px;
     }
     label#dept {
-        /*margin-left: -25%;*/
+        margin-left: -25%;
         padding-right: 5px;
         font-family: 'Arial', sans-serif;
         font-weight: 700;
@@ -197,7 +199,7 @@
     }
     select {
         width: 75%;
-        margin: 15px auto;
+        margin: 15px 0px 0px 15%;
     }
     .close {
         position: absolute;
@@ -208,7 +210,6 @@
         cursor: pointer;
     }
     /*Edit modal popup CSS ends here*/
-
     .add-modal {
         width: 100%;
         height: 200%;
@@ -219,7 +220,6 @@
         justify-content: center;
         display: none;
     }
-
     .add-content {
         margin: 5% 30% 0 0;
         width: 35%;
@@ -227,7 +227,6 @@
         background-color: white;
         border-radius: 15px;
     }
-
     .closeModal {
         top: 0;
         margin-left: 95%;
@@ -245,7 +244,7 @@
         display: none;
     }
     .form-group.nameSection label, .emailSection label{
-        /*margin-left: -25%;*/
+        margin-left: -10%;
         padding-right: 5px;
         font-family: 'Arial', sans-serif;
         font-weight: 700;
@@ -259,7 +258,7 @@
         color: #6b6363;
     }
     .form-group.nameSection input, .emailSection input{
-        margin-left: 10% !important;
+        margin-left: 18% !important;
     }
     .addNewEmp {
         margin-left: 45% !important;

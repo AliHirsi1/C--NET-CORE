@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.Immutable;
 using System.Linq;
 using System.Net.WebSockets;
 using System.Threading.Tasks;
@@ -27,16 +28,16 @@ namespace EmployeeManagement.UI
         {
             List<EmployeeVM> modal = new List<EmployeeVM>();
             var result = _employeeRepository.GetAllEmployees();
-
+           
             result.ForEach(em =>
             {
                 var emp = new EmployeeVM()
                 {
+                    Id = em.Id,
                     EmployeeName = em.EmployeeName,
                     Email = em.Email,
                     Department = em.Department,
                     EmpImageLocation = em.EmpImageLocation
-
                 };
                 modal.Add(emp);
             });

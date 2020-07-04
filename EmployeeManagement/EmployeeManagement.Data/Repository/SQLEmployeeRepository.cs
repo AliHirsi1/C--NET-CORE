@@ -27,10 +27,14 @@ namespace EmployeeManagement.Data.Repository
         {
             Employee employee = new Employee();
             employee = GetEmployee(id);
-            employee.EmployeeName = name;
-            employee.Department = department;
-            employee.Email = email;
-            _context.SaveChanges();
+            if(employee != null)
+            {
+                employee.EmployeeName = name;
+                employee.Department = department;
+                employee.Email = email;
+                _context.SaveChanges();
+            }
+           
         }
 
         public List<Employee> GetAllEmployees()
